@@ -6,13 +6,13 @@ A brief introduction about yourself. Mention your professional interests, goals,
 ## Education
 ### Masters in Information Security and Assurance - Carnegie Mellon University
 #### 2022 - 2024
-- GPA: 4.00
-- Courses: 
+- <u>GPA</u>: 4.00
+- <u>Relevant Courses</u>: 
 
 ### Bachelors in Cyber Security Engineering - Northeastern University
 #### 2018 - 2021
-- Capstone: Machine Learning/Artificial Intelligence
-- Relevant Courses: Software Vulnerabilities (Grad) | Object Oriented Design | Computer Systems | Systems Security |
+- <u>Capstone</u>: Machine Learning/Artificial Intelligence
+- <u>Relevant Courses</u>: Software Vulnerabilities (Grad) | Object Oriented Design | Computer Systems | Systems Security |
     Networks and Distributed Systems | Network Security | Theory of Computation | Cryptography | Foundations of Cyber
     Cyber Law | Human and Computer Interactions
 
