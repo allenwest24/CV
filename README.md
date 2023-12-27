@@ -1,17 +1,20 @@
-# [Your Name]
+# Allen West (In progress)
 
-## About Me
+## About Me (TBD)
 A brief introduction about yourself. Mention your professional interests, goals, and a bit of personal background.
 
 ## Education
-### [Masters in Information Security and Assurance] - [Carnegie Mellon University]
-#### [Start Date] - [End Date]
-- Major, focus, or special projects.
-- Any honors or distinctions received.
+### Masters in Information Security and Assurance - Carnegie Mellon University
+#### 2022 - 2024
+- GPA: 4.00
+- Courses: 
 
-### [Another Degree] - [University Name]
-#### [Start Date] - [End Date]
-- Details about your studies and achievements.
+### Bachelors in Cyber Security Engineering - Northeastern University
+#### 2018 - 2021
+- Capstone: Machine Learning/Artificial Intelligence
+- Relevant Courses: Software Vulnerabilities (Grad) | Object Oriented Design | Computer Systems | Systems Security |
+    Networks and Distributed Systems | Network Security | Theory of Computation | Cryptography | Foundations of Cyber
+    Cyber Law | Human and Computer Interactions
 
 ## Employment History
 ### [Job Title] - [Company/Organization Name]
