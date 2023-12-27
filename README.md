@@ -14,6 +14,13 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - **Capstone**: Machine Learning/Artificial Intelligence
 - **Relevant Courses**: Software Vulnerabilities (Grad) | Object Oriented Design | Computer Systems | Systems Security | Networks and Distributed Systems | Network Security | Theory of Computation | Cryptography | Foundations of Cyber | Cyber Law | Human and Computer Interactions
 
+## Certifications
+- Certified Information Systems Security Professional (CISSP) *Associate* - ISC2, 2023
+- GIAC Certified Incident Handler (GCIH) - SANS Institute, 2022
+- RED TEAM Operator: Advanced Malware Development - Sektor7 2023
+- AWS: Associate-Level Developer - VMware, 2022
+- Secret Clearance - Department of Defense, 2014
+
 ## Employment History
 ### Security Researcher - Akamai Technologies, Inc.
 #### 2022 - Current
@@ -37,9 +44,11 @@ A brief introduction about yourself. Mention your professional interests, goals,
 #### 2014 - 2018
 
 ## Honors and Awards (TBD)
-- [Award Name], [Year]
-- Brief description if necessary.
-- [Another Award Name], [Year]
+- Akamai High Performance Award, Fiscal year 2022
+- VMware's "At Our Best" Award (x4) - Feb-Aug 2022
+- Carnegie Mellon’s US Military Veterans Scholarship (25% of tuition) - May 2022
+- Navy and Marine Corps Commendation Medal - Aug 2018
+- Marine Corps Certificate of Commendation - Nov 2017
 
 ## Publications
 - ‘Proxyjacking: The Latest Cybercriminal Side Hustle’ - Akamai Security Research 2023
