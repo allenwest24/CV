@@ -103,6 +103,58 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - SANS (2022 - Current)
 
+## Relevant Books Read (Incomplete List Currently)
+- "System Design Interview - An Insider's Guide", by Alex Xu
+- "Thinking Better: The Art of the Shortcut in Math and Life", by Marcus du Sautoy
+- "The Hacker Playbook: Practical Guide to Penetration Testing", by Peter Kim
+- "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World", by Marco Lantisi
+- "RTFM: Red Team Field Manual v2", by Ben Clark
+- "Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities", by Vickie Li
+- "Eleventh Hour CISSP: Study Guide", by Eric Conrad
+- "(ISC)2 CISSP Ceritified Information Systems Security Professional Official Practice Tests", by Mike Chapple (x2)
+- "Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us", by Eugene H. Spafford
+- "Managing Kubernetes Resources Using Helm: Simplifying how to build, package and distribute applications for Kubernetes, 2nd Edition", by Andrew Block
+- "The Official (ISC)2 CISSP CBK Reference" by Arthur J. Deane
+- "Cyber Threat Intelligence Field Manual (CTI FM): For Decision-Makers, Analysts, and Operators across All Industries", by Chris Anthony
+- "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide", by Mike Chapple
+- "AI 2041: Ten Visions for Our Future", by Kai-Fu Lee
+- "The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business", by Clayton M. Christensen
+- "The Kill Chain: How Emerging Technologies Threaten America's Military Dominance", by Christian Brose
+- "Bug Bounty Playbook", by Alex O. Thomasex
+- "Bug Bounty Automation With Python: The secrets of bug hunting", by Syed Abuthahir
+- "The Dark Net: Inside the Digital Underworld", by Jamie Bartlett
+- "Information Security Policies and Porcedures: A Practitioner's Reference", by Thomas R. Peltier
+- "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones", by James Clear
+- "The Hacker Crackdown: Law and Disorder on the Electronic Frontier", by Bruce Sterling
+- "Quantum Computing for Everyone", by Chris Bernhardt
+- "Cyber Threat Intelligence: The No-Nonsense Guide for CISOs and Security Managers", by Aaron Roberts
+- "Software Security: Building Security In", by Gary McGraw
+- "Learn Python the Hard Way", by Zed A. Shaw
+- "Future Crimes", by Marc Goodman
+- "CSSLP Certification All-in-one Exam Guide", by William Arthur Conklin
+- "Eniac: The Triumphs and Tragedies of the World's First Computer", by Scott McCartney
+- "Official (ISC)2 Guide to the CSSLP CBK ((ISC)2 Press)", by Mano Paul
+- "Cyber Hacking: Wars in Virtual Space", by Scientific American
+- "Bad Blood: Secrets and Lies in a Silicon Valley Startup", by John Carreyrou
+- "The Rust Programming Language", by Steve Klabnik
+- "Artificial Intelligence: A Modern Approach", by Stuart Russell
+- "You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches", by Josephine Wolff
+- "Hackable: How to Do Application Security Right", by Ted Harrington
+- "How the Internet Happened: From Netscape to the IPhone", by Brian McCullough
+- "Creativity Code", by Marcus du Sautoy
+- "Cyberjutsu: Cybersecurity for the Modern Ninja", by Ben McCarty
+- "Engineering a Safer World: Systems Thinking Applied to Safety", by Nancy G. Levenson
+- "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage", by Clifford Stoll
+- "The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders, and Deceivers", by Kevin D. Mitnick
+- "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data", by Kevin D. Mitnick
+- "The Art of Deception: Controlling the Human Element of Security", by Kevin D. Mitnick
+- "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker", by Kevin D. Mitnick (x2)
+- "Kingpin: How One Hacker Took Over the Billion-Dollar Cyberrime Underground", by Kevin Poulsen
+- "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon", by Kim Zetter (x2)
+- "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers", by Andy Greenberg
+- "Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World", by Joseph Menn
+- Many more to follow...
+
 ## Contact Me
 - **Email:** [allwestj@gmail.com](mailto:allwestj@gmail.com)
 - **LinkedIn:** [Allen West - Security Researcher](https://www.linkedin.com/in/allen-west-459031187/)
