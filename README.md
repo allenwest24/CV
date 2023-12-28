@@ -86,29 +86,28 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - [Thousands of routers and cameras vulnerable to new 0-day attacks by hostile botnet](https://arstechnica.com/security/2023/11/thousands-of-routers-and-cameras-vulnerable-to-new-0-day-attacks-by-hostile-botnet/) - ArsTechnica, 2023
 - [NEW INFECTEDSLURS MIRAI-BASED BOTNET EXPLOITS TWO ZERO-DAYS](https://securityaffairs.com/154607/malware/infectedslurs-botnet.html) - Security Affairs, 2023
 - [Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks](https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html) - The Hacker News, 2023
-- [Novel Mirai-based DDoS botnet exploits 0-days to infect routers and security cameras](https://www.scmagazine.com/news/novel-mirai-based-ddos-botnet-exploits-0-days-to-infect-routers-and-security-cameras) -  SC Magazine
+- [Novel Mirai-based DDoS botnet exploits 0-days to infect routers and security cameras](https://www.scmagazine.com/news/novel-mirai-based-ddos-botnet-exploits-0-days-to-infect-routers-and-security-cameras) -  SC Magazine, 2023
 - [Mirai malware infects routers and cameras for new botnet](https://www.theregister.com/2023/11/23/zeroday_routers_mirai_botnet/) - The Register, 2023
-[https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks](https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks)
-[https://cyware.com/news/hackers-use-proxyjacking-to-profit-from-compromised-ssh-servers-bandwidth-df87141d](https://cyware.com/news/hackers-use-proxyjacking-to-profit-from-compromised-ssh-servers-bandwidth-df87141d)
-[https://www.csoonline.com/article/644398/attackers-add-hacked-servers-to-commercial-proxy-networks-for-profit.html](https://www.csoonline.com/article/644398/attackers-add-hacked-servers-to-commercial-proxy-networks-for-profit.html)
-[https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html](https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html)
-[https://www.bleepingcomputer.com/news/security/new-proxyjacking-attacks-monetize-hacked-ssh-servers-bandwidth/](https://www.bleepingcomputer.com/news/security/new-proxyjacking-attacks-monetize-hacked-ssh-servers-bandwidth/)
-[https://www.malwarebytes.com/blog/news/2023/06/a-proxyjacking-campaign-is-looking-for-vulnerable-ssh-servers#:~:text=Proxyjacking%20is%20a%20cybercrime%20where,a%20third%2Dparty%20proxy%20service.](https://www.malwarebytes.com/blog/news/2023/06/a-proxyjacking-campaign-is-looking-for-vulnerable-ssh-servers#:~:text=Proxyjacking%20is%20a%20cybercrime%20where,a%20third%2Dparty%20proxy%20service.)
-[https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/](https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/)
-[https://www.techrepublic.com/article/akamai-threatening-botnets/](https://www.techrepublic.com/article/akamai-threatening-botnets/)
-[https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/](https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/)
-[https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks](https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks)
-[https://www.hackread.com/gaming-firms-community-dark-frost-botnet/](https://www.hackread.com/gaming-firms-community-dark-frost-botnet/)
-[https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/](https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/)
-[https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html](https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html)
-[https://thecyberwire.com/podcasts/research-saturday/279/notes](https://thecyberwire.com/podcasts/research-saturday/279/notes)
-[https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/](https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/)
-[https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
-[https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/](https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/)
-[https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html](https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html)
-[https://thecyberwire.com/newsletters/daily-briefing/12/52](https://thecyberwire.com/newsletters/daily-briefing/12/52)
-[https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks](https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks)
-[https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb](https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb)
+- [https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks](https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks) - Dark Reading, 2023
+- [Hackers Use Proxyjacking to Profit from Compromised SSH Servers' Bandwidth](https://cyware.com/news/hackers-use-proxyjacking-to-profit-from-compromised-ssh-servers-bandwidth-df87141d) - CYWare, 2023
+- [Attackers add hacked servers to commercial proxy networks for profit](https://www.csoonline.com/article/644398/attackers-add-hacked-servers-to-commercial-proxy-networks-for-profit.html) - CSO Online, 2023
+- [Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign](https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html) - The Hacker News, 2023
+- [New proxyjacking attacks monetize hacked SSH servers’ bandwidth](https://www.bleepingcomputer.com/news/security/new-proxyjacking-attacks-monetize-hacked-ssh-servers-bandwidth/) - Bleeping Computer, 2023
+- [A proxyjacking campaign is looking for vulnerable SSH servers](https://www.malwarebytes.com/blog/news/2023/06/a-proxyjacking-campaign-is-looking-for-vulnerable-ssh-servers#:~:text=Proxyjacking%20is%20a%20cybercrime%20where,a%20third%2Dparty%20proxy%20service.) - MalwareBytes Labs, 2023
+- [https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/](https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/)
+- [https://www.techrepublic.com/article/akamai-threatening-botnets/](https://www.techrepublic.com/article/akamai-threatening-botnets/)
+- [https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/](https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/)
+- [https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks](https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks)
+- [https://www.hackread.com/gaming-firms-community-dark-frost-botnet/](https://www.hackread.com/gaming-firms-community-dark-frost-botnet/)
+- [https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/](https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/)
+- [https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html](https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html) - The Hacker News, 2023
+- [https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/](https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/)
+- [https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
+- [https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/](https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/) - Bleeping Computer, 2023
+- [https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html](https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html) - The Hacker News, 2023
+- [https://thecyberwire.com/newsletters/daily-briefing/12/52](https://thecyberwire.com/newsletters/daily-briefing/12/52)
+- [https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks](https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks)
+- [https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb](https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb)
 
 ## Mentoring
 - Tom Brier, United States Navy SEAL (2022 - Current)
