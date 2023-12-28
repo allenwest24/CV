@@ -78,8 +78,8 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - Another article or mention.
 
 ## Mentoring (TBD)
-- Brief description of your mentoring experience, focusing on roles, achievements, or impact.
-- Names of projects or programs, if applicable.
+- Tom Brier, United States Navy SEAL (2022 - 2024)
+- Liam Hedsbeth, University of Tampa (2023 - 2024)
 
 ## Affiliations (TBD)
 - [Organization/Association Name], [Role], [Years Active]
