@@ -43,7 +43,7 @@ A brief introduction about yourself. Mention your professional interests, goals,
 ### Sergeant of Marines - United States Marine Corps
 #### 2014 - 2018
 
-## Honors and Awards (TBD)
+## Honors and Awards
 - Akamai High Performance Award, Fiscal year 2022
 - VMware's "At Our Best" Award (x4) - Feb-Aug 2022
 - Carnegie Mellon’s US Military Veterans Scholarship (25% of tuition) - May 2022
@@ -64,6 +64,11 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - 'Sifting for Botnets', In: "97 Things Every AppSec Professional Should Know", O'Reilly Media, Inc., 2024
 - 'In Denial of Your Services', In: "97 Things Every AppSec Professional Should Know", O'Reilly Media, Inc., 2024
 
+## Podcast Episodes
+- 'SIG Download: Episode Two - The DDoS Deepdive' - Akamai Security Intelligence Group 2023
+- 'A new botnet takes a frosty bite out of the gaming industry.' - CyberWire (Ep. 285) 2023
+- 'HinataBot focuses on DDoS attack.' - CyberWire (Ep. 279) 2023
+
 ## Conference Presentations
 - SANS HackFest Summit 2023 - Hollywood, CA 
 - AppSec SoCal 2023 - Santa Monica, CA
@@ -71,20 +76,25 @@ A brief introduction about yourself. Mention your professional interests, goals,
 
 ## Invited Talks
 - MSIT Heinz College of Information Systems and Public Policy - Carnegie Mellon University, 2023
+- Security Consultant Roundtable - Akamai Technologies, Inc., 2023
+- Akamai Security Masters - Akamai Technologies, Inc., 2023
+- Computer Science/Cyber Security Co-op Student Panelist, - Northeastern University, 2021
 
 ## Selected Press Coverage (TBD)
 - "[Article Title]", [Publication], [Year]
 - [Link to article](URL)
 - Another article or mention.
 
-## Mentoring (TBD)
-- Tom Brier, United States Navy SEAL (2022 - 2024)
-- Liam Hedsbeth, University of Tampa (2023 - 2024)
+## Mentoring
+- Tom Brier, United States Navy SEAL (2022 - Current)
+- Liam Hedsbeth, University of Tampa (2023 - Current)
+- Security Engineering, CareerVillage.org (2022)
+- Computer Science Peer2Peer Mentor, Northeastern University (2020 - 2021)
 
-## Affiliations (TBD)
-- [Organization/Association Name], [Role], [Years Active]
-- Brief description of involvement or contributions.
-- Another organization or affiliation.
+## Affiliations
+- ISC2 Associate (2023 - Current)
+- San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
+- SANS (2022 - Current)
 
 ## Contact Me
 - **Email:** [allwestj@gmail.com](mailto:allwestj@gmail.com)
