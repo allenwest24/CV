@@ -81,7 +81,7 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - Akamai Security Masters - Akamai Technologies, Inc., 2023
 - Computer Science/Cyber Security Co-op Student Panelist, - Northeastern University, 2021
 
-## Selected Press Coverage (TBD)
+## Selected Press Coverage
 - [Thousands of Routers and Cameras Vulnerable To New 0-Day Attacks By Hostile Botnet](https://it.slashdot.org/story/23/11/22/2219214/thousands-of-routers-and-cameras-vulnerable-to-new-0-day-attacks-by-hostile-botnet) - /. SlashDot, 2023
 - [Thousands of routers and cameras vulnerable to new 0-day attacks by hostile botnet](https://arstechnica.com/security/2023/11/thousands-of-routers-and-cameras-vulnerable-to-new-0-day-attacks-by-hostile-botnet/) - ArsTechnica, 2023
 - [NEW INFECTEDSLURS MIRAI-BASED BOTNET EXPLOITS TWO ZERO-DAYS](https://securityaffairs.com/154607/malware/infectedslurs-botnet.html) - Security Affairs, 2023
