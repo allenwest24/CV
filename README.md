@@ -22,26 +22,12 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - Secret Clearance - Department of Defense, 2014
 
 ## Employment History
-### Security Researcher - Akamai Technologies, Inc.
-#### 2022 - Current
-
-### Senior Threat Analyst - VMware Carbon Black
-#### 2021 - 2022
-
-### Freelance Vulnerability Researcher - HackerOne
-#### 2021
-
-### Information Security Intern - Akamai Technologies, Inc.
-#### 2021
-
-### Cyber Security Engineering Co-op - MIT Lincoln Laboratory
-#### 2020 - 2021
-
-### Student - Northeastern University
-#### 2018 - 2021
-
-### Sergeant of Marines - United States Marine Corps
-#### 2014 - 2018
+- Security Researcher, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - Current)
+- Senior Threat Analyst (MDR) @ VMware Carbon Black (2021 - 2022)
+- Freelance Vulnerability Researcher - HackerOne (2021)
+- Systems Safety and Resiliency Intern @ Akamai Technologies, Inc. (2021)
+- Cyber Security Engineering & Operations Co-op @ MIT Lincoln Laboratory (2020 - 2021)
+- Sergeant @ United States Marine Corps (2014 - 2018)
 
 ## Honors and Awards
 - Akamai High Performance Award, Fiscal year 2022
@@ -51,15 +37,15 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - Marine Corps Certificate of Commendation - Nov 2017
 
 ## Publications
-- 'InfectedSlurs Botnet Spreads Mirai via Zero-Days' - Akamai Security Research 2023
-- ‘Proxyjacking: The Latest Cybercriminal Side Hustle’ - Akamai Security Research 2023
-- ‘The Dark Frost Enigma: An Unexpectedly Prevalent Botnet Author Profile’ - Akamai Security Research 2023
-- ‘Uncovering HinataBot: A Deep Dive into a Go-Based Threat’ - Akamai Security Research 2023
-- ‘Emulating KmsdBot’s Command and Control and Examining Its Attack Traffic’ - Akamai Security Research 2022
-- ‘Proactive Threat Hunting Case Study: GhostCat’ - VMware 2022
+- [InfectedSlurs Botnet Spreads Mirai via Zero-Days](https://www.akamai.com/blog/security-research/new-rce-botnet-spreads-mirai-via-zero-days) - Akamai Security Research 2023
+- [Proxyjacking: The Latest Cybercriminal Side Hustle](https://www.akamai.com/blog/security-research/proxyjacking-new-campaign-cybercriminal-side-hustle#:~:text=This%20is%20an%20active%20campaign,such%20as%20Peer2Proxy%20or%20Honeygain.) - Akamai Security Research 2023
+- [The Dark Frost Enigma: An Unexpectedly Prevalent Botnet Author Profile](https://www.akamai.com/blog/security-research/dark-frost-botnet-unexpected-author-profile#:~:text=The%20Dark%20Frost%20Enigma%3A%20An%20Unexpectedly%20Prevalent%20Botnet%20Author%20Profile,-Written%20by&text=Allen%20West%20is%20a%20Security,investigating%20threats%20and%20building%20tools.) - Akamai Security Research 2023
+- [Uncovering HinataBot: A Deep Dive into a Go-Based Threat](https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet) - Akamai Security Research 2023
+- [Emulating KmsdBot’s Command and Control and Examining Its Attack Traffic](https://www.akamai.com/blog/security-research/kmsdbot-part-three-examining-attack-traffic) - Akamai Security Research 2022
+- [Proactive Threat Hunting Case Study: GhostCat](https://carbonblack.vmware.com/blog/proactive-threat-hunting-case-study-ghostcat) - VMware 2022
 - ‘TAU-TIN - SocGholish’ - VMware Carbon Black  - Threat Analysis Unit 2022
 - ‘TAU-TIN - Lorenz Ransomware’ - VMware Carbon Black  - Threat Analysis Unit 2022
-- ‘Detecting Log4j in the Carbon Black Console - An evaluation Campaign by our Top MDR Analysts’ - VMware 2022
+- [Detecting Log4j in the Carbon Black Console - An evaluation Campaign by our Top MDR Analysts](https://carbonblack.vmware.com/blog/detecting-log4j-carbon-black-console-evaluation-campaign-our-top-mdr-analysts) - VMware 2022
 
 ## Book Chapters
 - 'Sifting for Botnets', In: "97 Things Every AppSec Professional Should Know", O'Reilly Media, Inc., 2024
