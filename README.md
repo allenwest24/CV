@@ -94,24 +94,21 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - [Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign](https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html) - The Hacker News, 2023
 - [New proxyjacking attacks monetize hacked SSH servers’ bandwidth](https://www.bleepingcomputer.com/news/security/new-proxyjacking-attacks-monetize-hacked-ssh-servers-bandwidth/) - Bleeping Computer, 2023
 - [A proxyjacking campaign is looking for vulnerable SSH servers](https://www.malwarebytes.com/blog/news/2023/06/a-proxyjacking-campaign-is-looking-for-vulnerable-ssh-servers#:~:text=Proxyjacking%20is%20a%20cybercrime%20where,a%20third%2Dparty%20proxy%20service.) - MalwareBytes Labs, 2023
-- [https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/](https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/)
-- [https://www.techrepublic.com/article/akamai-threatening-botnets/](https://www.techrepublic.com/article/akamai-threatening-botnets/)
-- [https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/](https://izoologic.com/2023/05/26/gamers-are-warned-about-ddos-attacks-from-dark-frost-botnet/)
-- [https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks](https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks)
-- [https://www.hackread.com/gaming-firms-community-dark-frost-botnet/](https://www.hackread.com/gaming-firms-community-dark-frost-botnet/)
-- [https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/](https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/)
-- [https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html](https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html) - The Hacker News, 2023
-- [https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/](https://heimdalsecurity.com/blog/hinatabot-the-latest-go-based-threat/)
-- [https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
-- [https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/](https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/) - Bleeping Computer, 2023
-- [https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html](https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html) - The Hacker News, 2023
-- [https://thecyberwire.com/newsletters/daily-briefing/12/52](https://thecyberwire.com/newsletters/daily-briefing/12/52)
-- [https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks](https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks)
-- [https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb](https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb)
+- [Dark Frost Botnet Targets Gaming Industry, Security Researchers Discover](https://www.bitdefender.com/blog/hotforsecurity/dark-frost-botnet-targets-gaming-industry-security-researchers-discover/) - Bitdefender, 2023
+- [Threatening botnets can be created with little code experience, Akamai finds](https://www.techrepublic.com/article/akamai-threatening-botnets/) - Tech Republic, 2023
+- [Gaming sector subjected to Dark Frost DDoS attacks](https://www.scmagazine.com/brief/device-security/gaming-sector-subjected-to-dark-frost-ddos-attacks) -  SC Magazine, 2023
+- [Cyber Security Headlines:  GDPR turns 5, GitLab patches vulnerability, Russian industrial malware](https://cisoseries.com/cyber-security-headlines-gdpr-turns-5-gitlab-patches-vulnerability-russian-industrial-malware/) - CISO Series, 2023
+- [Dark Frost Botnet Launches Devastating DDoS Attacks on Gaming Industry](https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html) - The Hacker News, 2023
+- [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet) - Dark Reading, 2023
+- [New ‘HinataBot’ botnet could launch massive 3.3 Tbps DDoS attacks](https://www.bleepingcomputer.com/news/security/new-hinatabot-botnet-could-launch-massive-33-tbps-ddos-attacks/) - Bleeping Computer, 2023
+- [New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks](https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html) - The Hacker News, 2023
+- [Go-based HinataBot latest botnet to focus on DDoS attacks](https://www.scmagazine.com/news/malware/go-based-hinatabot-botnet-ddos-attacks) -  SC Magazine, 2023
+- [New Go-Based HinataBot Abuses Old Vulnerabilities for DDoS Attacks](https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb) - CYWare, 2023
 
 ## Mentoring
-- Tom Brier, United States Navy SEAL (2022 - Current)
 - Liam Hedsbeth, University of Tampa (2023 - Current)
+- Tom Brier, United States Navy SEAL (2022 - Current)
+- Erik Wong, United States Marine (2022)
 - Security Engineering, CareerVillage.org (2022)
 - Computer Science Peer2Peer Mentor, Northeastern University (2020 - 2021)
 
