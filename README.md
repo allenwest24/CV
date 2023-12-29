@@ -1,7 +1,7 @@
-# Allen West (In progress)
+# Allen West
 
-## About Me (TBD)
-A brief introduction about yourself. Mention your professional interests, goals, and a bit of personal background.
+## About Me
+I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represent a large chunk of the internet, most of my/our current focus is on scalable threat actors like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
 
 ## Education
 ### Masters in Information Security and Assurance - Carnegie Mellon University
@@ -103,7 +103,7 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - SANS (2022 - Current)
 
-## Relevant Books Read (Incomplete List Currently)
+## Relevant Books Read
 - "System Design Interview - An Insider's Guide", by Alex Xu
 - "Thinking Better: The Art of the Shortcut in Math and Life", by Marcus du Sautoy
 - "The Hacker Playbook: Practical Guide to Penetration Testing", by Peter Kim
@@ -113,7 +113,7 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - "Eleventh Hour CISSP: Study Guide", by Eric Conrad
 - "(ISC)2 CISSP Ceritified Information Systems Security Professional Official Practice Tests", by Mike Chapple (x2)
 - "Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us", by Eugene H. Spafford
-- "Managing Kubernetes Resources Using Helm: Simplifying how to build, package and distribute applications for Kubernetes, 2nd Edition", by Andrew Block
+- "Managing Kubernetes Resources Using Helm: Simplifying how to build, package and distribute applications for Kubernetes", by Andrew Block
 - "The Official (ISC)2 CISSP CBK Reference" by Arthur J. Deane
 - "Cyber Threat Intelligence Field Manual (CTI FM): For Decision-Makers, Analysts, and Operators across All Industries", by Chris Anthony
 - "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide", by Mike Chapple
@@ -153,7 +153,16 @@ A brief introduction about yourself. Mention your professional interests, goals,
 - "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon", by Kim Zetter (x2)
 - "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers", by Andy Greenberg
 - "Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World", by Joseph Menn
-- Many more to follow...
+- "Spam Nation: The Inside Story of Organized Cybercrime - from Global Epidemic to Your Front Door", by Brian Krebbs
+- "Dark Territory: The Secret History of Cyber War", by Fred Kaplan
+- "Hello World: Being Human in the Age of Algorithms", by Hannah Fry
+- "Blockchain Basics: A non-Technical Introduction in 25 Steps", by Daniel Drescher
+- "Click Here to Kill Everybody: Security and Survival in a Hyper-connected World", by Bruce Schneier
+- "Computer Networks: A Systems Approach, Fourth Edition", by Larry L. Peterson
+- "Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World", by Marcus J. Carey
+- "Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value", by Teresa Torres
+- "Practical IoT Hacking: The Definitive Guide to Attacking the Internet of Things", by Fotios Chantzis
+- "Penetration Testing: A Hands-On Introduction to Hacking", by Georgia Weidman
 
 ## Contact Me
 - **Email:** [allwestj@gmail.com](mailto:allwestj@gmail.com)
