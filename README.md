@@ -1,7 +1,7 @@
 # Allen West
 
 ## About Me
-I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represent a large chunk of the internet, most of my/our current focus is on scalable threat actors like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
+I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represents a large chunk of the internet, most of my/our current focus is on scalable threat actors like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
 
 ## Education
 ### Masters in Information Security and Assurance - Carnegie Mellon University
@@ -52,9 +52,9 @@ I am a Security Researcher currently working with some of the world's best engin
 - 'In Denial of Your Services', In: "97 Things Every AppSec Professional Should Know", O'Reilly Media, Inc., 2024
 
 ## Podcast Episodes
-- 'SIG Download: Episode Two - The DDoS Deepdive' - Akamai Security Intelligence Group 2023
-- 'A new botnet takes a frosty bite out of the gaming industry.' - CyberWire (Ep. 285) 2023
-- 'HinataBot focuses on DDoS attack.' - CyberWire (Ep. 279) 2023
+- [SIG Download: Episode Two - The DDoS Deepdive](https://www.brighttalk.com/webcast/13169/599008?utm_content=upcoming) - Akamai Security Intelligence Group 2023
+- [A new botnet takes a frosty bite out of the gaming industry.](https://thecyberwire.com/podcasts/research-saturday/285/notes) - CyberWire (Ep. 285) 2023
+- [HinataBot focuses on DDoS attack.](https://thecyberwire.com/podcasts/research-saturday/279/notes) - CyberWire (Ep. 279) 2023
 
 ## Conference Presentations
 - SANS HackFest Summit 2023 - Hollywood, CA 
@@ -101,7 +101,7 @@ I am a Security Researcher currently working with some of the world's best engin
 ## Affiliations
 - ISC2 Associate (2023 - Current)
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
-- SANS (2022 - Current)
+- [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
 
 ## Relevant Books Read
 - "System Design Interview - An Insider's Guide", by Alex Xu
