@@ -103,6 +103,12 @@ I am a Security Researcher currently working with some of the world's best engin
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
 
+## Projects (In progress)
+#### Helios
+- A highly efficient tool built in **Go** to comb through eploitation attempts observed in Akamai's honeypots. The tool features a **Gin** API, concurrent sorting, **MongoDB** storage, **Google Search API** automation, **OpenAI API** usage for attributions, and runs 24/7 utilizing **Linode**, **RabbitMQ**, and **Elasticsearch** queries.
+#### Next tool
+- something
+
 ## Relevant Books Read
 - "System Design Interview - An Insider's Guide", by Alex Xu
 - "Thinking Better: The Art of the Shortcut in Math and Life", by Marcus du Sautoy
