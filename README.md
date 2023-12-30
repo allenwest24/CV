@@ -104,8 +104,10 @@ I am a Security Researcher currently working with some of the world's best engin
 - [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
 
 ## Projects (In progress)
+#### Malware Analysis Framework
+This tool is written in **Python** and is installed in a **Linode** destructible malware lab to help navigate which tools are natively installed and make it easy to launch and pursue a threat investigation. Some automation includes **R2pipe**, **OpenAI API**, **Bash** scripting, **Docker**, **Elastic**, network pcaps capturing and analysis, and much much more.
 #### Helios
-- A highly efficient tool built in **Go** to comb through eploitation attempts observed in Akamai's honeypots. The tool features a **Gin** API, concurrent sorting, **MongoDB** storage, **Google Search API** automation, **OpenAI API** usage for attributions, and runs 24/7 utilizing **Linode**, **RabbitMQ**, and **Elasticsearch** queries.
+A highly efficient tool built in **Go** to comb through eploitation attempts observed in Akamai's honeypots and isolate new and unknown exploits. The tool features a **Gin** API, concurrent sorting, **MongoDB** storage, **Google Search API** automation, **OpenAI API** usage for attributions, and runs 24/7 utilizing **Linode**, **RabbitMQ**, and **Elasticsearch** queries.
 #### Next tool
 - something
 
