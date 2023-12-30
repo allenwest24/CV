@@ -103,13 +103,62 @@ I am a Security Researcher currently working with some of the world's best engin
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
 
-## Projects (In progress)
-#### Malware Analysis Framework
-This tool is written in **Python** and is installed in a **Linode** destructible malware lab to help navigate which tools are natively installed and make it easy to launch and pursue a threat investigation. Some automation includes **R2pipe**, **OpenAI API**, **Bash** scripting, **Docker**, **Elastic**, network pcaps capturing and analysis, and much much more.
-#### Helios
-A highly efficient tool built in **Go** to comb through eploitation attempts observed in Akamai's honeypots and isolate new and unknown exploits. The tool features a **Gin** API, concurrent sorting, **MongoDB** storage, **Google Search API** automation, **OpenAI API** usage for attributions, and runs 24/7 utilizing **Linode**, **RabbitMQ**, and **Elasticsearch** queries.
-#### Next tool
-- something
+## Big Projects (In Progress... Far from complete)
+#### Threat Research
+- Malware Analysis Framework (Python, Linode, R2pipe, OpenAI API, Bash, Docker, Elastic)
+- "Helios" Honeypot Exploitation Trend Analysis Tool (Go, Gin, MongoDB, Google Custom Search, OpenAI API, Linode, RabbitMQ, Elasticsearch)
+- File-Infector Virus (C)
+
+#### Vulnerability Research
+- Timing Side-Channel Password Recovery Exploit (Python)
+- Application Fuzzer (Python)
+- Return to Libc Demos (Python)
+- Buffer Overflow Research (C)
+- Manipulating System Calls Demo (C)
+- Remote Buffer Overflow Demo (Python)
+
+#### AI / ML
+- Othello AI Using Minimax (Python, Jupyter)
+- Wumpus World AI Using MDPs and Q-Learning (Python, Jupyter)
+- Sentiment Analysis Machine Learning Classifier (Python, Jupyter)
+- Fifteen Puzzle AI Using A* Search (Python, Jupyter)
+- Sudoku Speed Solver AI (Golang)
+
+#### Algorithms, Performance, & Cryptography
+- Sudoku Speed Solver AI (Golang)
+- Cache-Oblivious Algorithm Research (C++)  
+- Thread-Safe Parallel Sort (C)
+- Distributed Replicated Key-Value Datastore (Rust, Python)
+- Cache-Oblivious Algorithm Research (C++) 
+
+#### Network & Internet Security
+- IP Flooder (Rust)
+- IP Spoofer (Python)
+- Timing Side-Channel Password Recovery Exploit (Python)
+- Resilient Authentication Server (Python)
+- Distributed Replicated KeyVal Store (Rust , Python)
+- FTP Client (Python)
+- Social Media Web Crawler (Python)
+- BGP Router Firmware (Python)
+- Network Scanner (Python)
+- ARP Poisoner (Python)
+
+#### Systems Security
+- File-Infector Virus (C) 
+- Return to Libc Demos (Python)
+- Buffer Overflow Research (C)
+- Clipboard Logger (Python)
+- Manipulating System Calls Demo (C)
+- Remote Buffer Overflow Demo (Python)
+- Key-Logger (Python) | MAC Changer (Python)
+- Application Fuzzer (Python)
+- Thread-Safe Memory Allocator (C) 
+
+#### Open Source Contributions 
+- Northeastern Course Registration App (Python)
+- Draw.io System Design Plugin (Javascript)
+- CSV to Draw.io System Diagram Converter (Python)
+- Interactive Animator (Java)
 
 ## Relevant Books Read
 - "System Design Interview - An Insider's Guide", by Alex Xu
