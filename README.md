@@ -161,6 +161,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - Interactive Animator (Java)
 
 ## Relevant Books Read
+- "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential", by Tiago Forte
 - "System Design Interview - An Insider's Guide", by Alex Xu
 - "Thinking Better: The Art of the Shortcut in Math and Life", by Marcus du Sautoy
 - "The Hacker Playbook: Practical Guide to Penetration Testing", by Peter Kim
