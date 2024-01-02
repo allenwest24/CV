@@ -107,7 +107,13 @@ I am a Security Researcher currently working with some of the world's best engin
 #### Threat Research
 - Malware Analysis Framework (Python, Linode, R2pipe, OpenAI API, Bash, Docker, Elastic)
 - "Helios" Honeypot Exploitation Trend Analysis Tool (Go, Gin, MongoDB, Google Custom Search, OpenAI API, Linode, RabbitMQ, Elasticsearch)
-- File-Infector Virus (C)
+- [File-Infector Virus](https://github.com/allenwest24/file-infector-virus) (C)
+- AI-Powered Static Malware Analysis Tool (Python, R2Pipe, Redress, OpenAI API)
+- "UniWebPot" Global HTTP Honeypot Cluster (PHP, Nginx, Linode, Elastic, DigitalOcean, VPS)
+- "Snifferpot" Global High-Interaction Honeypot Cluster (Go, Docker, Kubernetes, Nginx, Linode)
+
+#### Threat Intelligence
+- Akamai's Central Threat Hub (Python, Pycti, OpenCTI, PostgreSQL, Elastic)
 
 #### Vulnerability Research
 - [Timing Side-Channel Password Recovery Exploit](https://github.com/allenwest24/vulnerable-password-checking) (Python)
