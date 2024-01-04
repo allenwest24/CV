@@ -113,7 +113,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - "Snifferpot" Global High-Interaction Honeypot Cluster (Go, Docker, Kubernetes, Nginx, Linode)
 
 #### Threat Intelligence
-- Akamai's Central Threat Hub (Python, Pycti, OpenCTI, PostgreSQL, Elastic)
+- Akamai's Central Threat Intelligence Hub (Python, Pycti, OpenCTI, PostgreSQL, Elastic)
+- Automated Linode Abuse Reporting from Global Honeypots (Python, XARF, Elastic, Linode, Web Hooks)
 
 #### Vulnerability Research
 - [Timing Side-Channel Password Recovery Exploit](https://github.com/allenwest24/vulnerable-password-checking) (Python)
@@ -166,6 +167,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Interactive Animator](https://github.com/allenwest24/interactiveanimator) (Java)
 
 ## Relevant Books Read
+- "Essential CISM: Updated for the 15th Edition CISM Review Manual", by Phil Martin
 - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential", by Tiago Forte
 - "System Design Interview - An Insider's Guide", by Alex Xu
 - "Thinking Better: The Art of the Shortcut in Math and Life", by Marcus du Sautoy
