@@ -103,18 +103,18 @@ I am a Security Researcher currently working with some of the world's best engin
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
 
-## Big Projects (In Progress... Far from complete)
+## Top Projects (In Progress... Far from complete)
 #### Threat Research
 - Malware Analysis Framework (Python, Linode, R2pipe, OpenAI API, Bash, Docker, Elastic)
+- Akamai's Central Threat Intelligence Hub (Python, Pycti, OpenCTI, PostgreSQL, Elastic)
 - "Helios" Honeypot Exploitation Trend Analysis Tool (Go, Gin, MongoDB, Google Custom Search, OpenAI API, Linode, RabbitMQ, Elasticsearch)
-- [File-Infector Virus](https://github.com/allenwest24/file-infector-virus) (C)
+- Automated Linode Abuse Reporting from Global Honeypots (Python, XARF, Elastic, Linode, Web Hooks)
 - AI-Powered Static Malware Analysis Tool (Python, R2Pipe, Redress, OpenAI API)
 - "UniWebPot" Global HTTP Honeypot Cluster (PHP, Nginx, Linode, Elastic, DigitalOcean, VPS)
 - "Snifferpot" Global High-Interaction Honeypot Cluster (Go, Docker, Kubernetes, Nginx, Linode)
-
-#### Threat Intelligence
-- Akamai's Central Threat Intelligence Hub (Python, Pycti, OpenCTI, PostgreSQL, Elastic)
-- Automated Linode Abuse Reporting from Global Honeypots (Python, XARF, Elastic, Linode, Web Hooks)
+- "Omni" VMware Carbon Black's Automated IOC Analysis Plugin (JavaScript, Carbon Black)
+- New Customer Threat Hunt Framework (Carbon Black, Excel)
+- [File-Infector Virus](https://github.com/allenwest24/file-infector-virus) (C)
 
 #### Vulnerability Research
 - [Timing Side-Channel Password Recovery Exploit](https://github.com/allenwest24/vulnerable-password-checking) (Python)
@@ -160,7 +160,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Application Fuzzer](https://github.com/allenwest24/fuzzer) (Python)
 - [Thread-Safe Memory Allocator](https://github.com/allenwest24/thread-safe-memory-allocator) (C) 
 
-#### Open Source Contributions 
+#### Other Open Source Contributions 
 - [Northeastern Course Registration App](https://github.com/allenwest24/nu-air) (Python)
 - [Draw.io System Design Plugin](https://github.com/allenwest24/illuminators.js) (Javascript)
 - [CSV to Draw.io System Diagram Converter](https://github.com/allenwest24/csv2draw) (Python)
