@@ -158,7 +158,14 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Remote Buffer Overflow Demo](https://github.com/allenwest24/remote-buffer-overflow) (Python)
 - [Key-Logger](https://github.com/allenwest24/key-logger) (Python) | MAC Changer (Python)
 - [Application Fuzzer](https://github.com/allenwest24/fuzzer) (Python)
-- [Thread-Safe Memory Allocator](https://github.com/allenwest24/thread-safe-memory-allocator) (C) 
+- [Thread-Safe Memory Allocator](https://github.com/allenwest24/thread-safe-memory-allocator) (C)
+
+#### Security Management
+- Digital Expansion of Aldi into Rural Regions (Managing Digital Business)
+- AI-Powered Class Schedule Manager Design (IT Project Management)
+- Market Discovery for SMB Regulation Management Product (Tech Startup Market Discovery)
+- E-Payment System Design for Pittsburgh International Airport (Managing Digital Business)
+- Risk Management Policy for JPMorgan Chase (Risk Management)
 
 #### Other Open Source Contributions 
 - [Northeastern Course Registration App](https://github.com/allenwest24/nu-air) (Python)
