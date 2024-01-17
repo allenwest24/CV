@@ -15,7 +15,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - **Relevant Courses**: Software Vulnerabilities (Grad) | Object Oriented Design | Computer Systems | Systems Security | Networks and Distributed Systems | Network Security | Theory of Computation | Cryptography | Foundations of Cyber | Cyber Law | Human and Computer Interactions
 
 ## Certifications
-- Certified Information Systems Security Professional (CISSP) *Associate* - ISC2, 2023
+- OpenCTI - Analyst Essentials - Filigran, 2024
+- Certified Information Systems Security Professional (CISSP)* - ISC2, 2023
 - GIAC Certified Incident Handler (GCIH) - SANS Institute, 2022
 - RED TEAM Operator: Advanced Malware Development - Sektor7 2023
 - AWS: Associate-Level Developer - VMware, 2022
