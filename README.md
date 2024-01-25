@@ -1,7 +1,7 @@
 # Allen West
 
 ## About Me
-I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represents a large chunk of the internet, most of my/our current focus is on scalable threat actors like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
+I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represents a large chunk of the internet, most of my/our current focus is on scalable threats like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
 
 ## Education
 ### Masters in Information Security and Assurance - Carnegie Mellon University
@@ -175,6 +175,9 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Interactive Animator](https://github.com/allenwest24/interactiveanimator) (Java)
 
 ## Relevant Books Read
+- "Digital Minimalism: Choosing a Focused Life in a Noisy World", by Cal Newport
+- "CISM Certified Information Security Manager All-in-One Exam Guide" by Peter H. Gregory
+- "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change", by Tanya Reilly
 - "Essential CISM: Updated for the 15th Edition CISM Review Manual", by Phil Martin
 - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential", by Tiago Forte
 - "System Design Interview - An Insider's Guide", by Alex Xu
