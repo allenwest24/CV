@@ -58,6 +58,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - [HinataBot focuses on DDoS attack.](https://thecyberwire.com/podcasts/research-saturday/279/notes) - CyberWire (Ep. 279) 2023
 
 ## Conference Presentations
+- BSides San Diego 2024 - San Diego, CA (Upcoming)
 - SANS HackFest Summit 2023 - Hollywood, CA 
 - AppSec SoCal 2023 - Santa Monica, CA
 - Botconf 2023: The Botnet and Malware Ecosystems Fighting Conference - Strasbourg, FR
@@ -175,6 +176,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Interactive Animator](https://github.com/allenwest24/interactiveanimator) (Java)
 
 ## Relevant Books Read
+- "CISM Review Manual 2015", by ISACA
+- "Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us Abouut Who We Really Are", by Seth Stephens-Davidowitz
 - "Digital Minimalism: Choosing a Focused Life in a Noisy World", by Cal Newport
 - "CISM Certified Information Security Manager All-in-One Exam Guide" by Peter H. Gregory
 - "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change", by Tanya Reilly
