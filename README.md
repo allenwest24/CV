@@ -31,7 +31,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - Sergeant @ United States Marine Corps (2014 - 2018)
 
 ## Honors and Awards
-- Akamai High Performance Award, Fiscal year 2022
+- Akamai's Security Technology Group (STG) MVP - Q1, 2024
+- Akamai High Performance Award -  Fiscal year 2022
 - VMware's "At Our Best" Award (x4) - Feb-Aug 2022
 - Carnegie Mellon’s US Military Veterans Scholarship (25% of tuition) - May 2022
 - Navy and Marine Corps Commendation Medal - Aug 2018
