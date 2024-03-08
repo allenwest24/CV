@@ -177,6 +177,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - [Interactive Animator](https://github.com/allenwest24/interactiveanimator) (Java)
 
 ## Relevant Books Read
+- "Certified Information Security Manager Exam Prep Guide", by Hemang Doshi
+- "The Industries of the Future", by Alec J. Ross
 - "CISM Review Manual 2015", by ISACA
 - "Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us Abouut Who We Really Are", by Seth Stephens-Davidowitz
 - "Digital Minimalism: Choosing a Focused Life in a Noisy World", by Cal Newport
