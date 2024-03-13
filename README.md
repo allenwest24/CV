@@ -60,6 +60,7 @@ I am a Security Researcher currently working with some of the world's best engin
 
 ## Conference Presentations
 - BSides San Diego 2024 - San Diego, CA (Upcoming)
+- Southern California Linux Expo 2024 (SCaLE 21x) - Pasadena, CA (Upcoming)
 - SANS HackFest Summit 2023 - Hollywood, CA 
 - AppSec SoCal 2023 - Santa Monica, CA
 - Botconf 2023: The Botnet and Malware Ecosystems Fighting Conference - Strasbourg, FR
