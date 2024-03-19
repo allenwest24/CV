@@ -23,7 +23,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - Secret Clearance - Department of Defense, 2014
 
 ## Employment History
-- Security Researcher, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - Current)
+- Security Researcher II, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - Current)
 - Senior Threat Analyst (MDR) @ VMware Carbon Black (2021 - 2022)
 - Freelance Vulnerability Researcher - HackerOne (2021)
 - Systems Safety and Resiliency Intern @ Akamai Technologies, Inc. (2021)
