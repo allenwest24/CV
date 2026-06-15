@@ -1,12 +1,13 @@
 # Allen West
 
 ## About Me
-I am a Security Researcher currently working with some of the world's best engineers and hackers on Akamai's Security Intelligence Response Team. Since Akamai's customer base represents a large chunk of the internet, most of my/our current focus is on scalable threats like botnets operators and Nation State campaigns. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
+I am a Security Engineer currently working with some of the world's best engineers and hackers on Datadog's Security Incident Response Team. My current focus is on scaling Datadog's incident response efforts and building out and maturing the company's threat hunting program. I also love writing code, designing systems, offensive security, and I even enjoy writing policy and research blog posts about all of it. Below is all of the work I have done in the Cyber Security domain, and I hope it protrays sufficiently the level of passion I have for this "career". It means a lot to me and I am excited to be able to share it with anyone who is interested. Thanks!
 
 ## Education
 ### Masters in Information Security and Assurance - Carnegie Mellon University
 #### 2022 - 2024
 - **GPA**: 4.00
+- **Awarded**: "Highest Distinction"
 - **Relevant Courses**: Software and Security | Network and Internet Security | Introduction to Python | Privacy in the Digital Age | Cybersecurity Governance and Policy I-II | Information Security Risk Management | Introduction to Information Security Management | Telecommunications Management | Managing Digital Businesses | Tech Startup Market Discovery | IT Project Management | Digital Transformation | Object-Oreinted Programming for Managers | Introduction to Cyber Intelligence
 
 ### Bachelors in Cyber Security Engineering - Northeastern University
@@ -23,7 +24,8 @@ I am a Security Researcher currently working with some of the world's best engin
 - Secret Clearance - Department of Defense, 2014
 
 ## Employment History
-- Security Researcher II, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - Current)
+- Senior Security Engineer (SIRT) @ Datadog (2024 - Current)
+- Security Researcher II, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - 2024)
 - Senior Threat Analyst (MDR) @ VMware Carbon Black (2021 - 2022)
 - Freelance Vulnerability Researcher - HackerOne (2021)
 - Systems Safety and Resiliency Intern @ Akamai Technologies, Inc. (2021)
@@ -31,6 +33,7 @@ I am a Security Researcher currently working with some of the world's best engin
 - Sergeant @ United States Marine Corps (2014 - 2018)
 
 ## Honors and Awards
+- Datadog's Paws for Applause Award - H2, 2025
 - Akamai's Security Technology Group (STG) MVP - Q1, 2024
 - Akamai High Performance Award -  Fiscal year 2022
 - VMware's "At Our Best" Award (x4) - Feb-Aug 2022
@@ -96,13 +99,20 @@ I am a Security Researcher currently working with some of the world's best engin
 - [New Go-Based HinataBot Abuses Old Vulnerabilities for DDoS Attacks](https://cyware.com/news/new-go-based-hinatabot-abuses-old-vulnerabilities-for-ddos-attacks-f2d124fb) - CYWare, 2023
 
 ## Mentoring
+- Datadog paralegal interested in breaking into InfoSec (2026)
+- Datadog Sales Engineer interested in learning more about Datadog Security products (2026)
+- Datadog Technical Recruiter looking to break into InfoSec (2025)
+- Datadog Sales Engineer interested in learning more about Datadog Security products (2025)
 - Liam Hedsbeth, University of Tampa (2023 - Current)
-- Tom Brier, United States Navy SEAL (2022 - Current)
+   - Helped break into first cyber role
+- Tom Brier, United States Navy SEAL (2022 - 2023)
+   - Helped break into first cyber role
 - Erik Wong, United States Marine (2022)
 - Security Engineering, CareerVillage.org (2022)
 - Computer Science Peer2Peer Mentor, Northeastern University (2020 - 2021)
 
 ## Affiliations
+- ISACA (2023 - Current)
 - ISC2 Associate (2023 - Current)
 - San Diego Cyber Meetups, by the CISO Series Podcast (2023 - Current)
 - [SANS](https://www.sans.org/profiles/allen-west/) (2022 - Current)
@@ -177,7 +187,12 @@ I am a Security Researcher currently working with some of the world's best engin
 - [CSV to Draw.io System Diagram Converter](https://github.com/allenwest24/csv2draw) (Python)
 - [Interactive Animator](https://github.com/allenwest24/interactiveanimator) (Java)
 
-## Relevant Books Read
+## Relevant Books Read (last updated 2024)
+- "Surveillance Valley: The Rise of the Military-Digital Complex", by Yasha Levine
+- "The Pragmatic Programmer: From Journeyman to Master", by Andy Hunt
+- "Malware Forensics Field Guide for Linux Systems: Digital Forensics", by Eoghan Casey
+- "Power and Predictions: The Disruptive Economics of Artificial Intelligence", by Ajay Agrawal
+- "Fundamentals of Softwre Architecture", by Mark Richards
 - "Certified Information Security Manager Exam Prep Guide", by Hemang Doshi
 - "The Industries of the Future", by Alec J. Ross
 - "CISM Review Manual 2015", by ISACA
