@@ -24,7 +24,7 @@ I am a Security Engineer currently working with some of the world's best enginee
 - Secret Clearance - Department of Defense, 2014
 
 ## Employment History
-- Senior Security Engineer (SIRT) @ Datadog (2024 - Current)
+- Security Engineering Lead (SIRT) @ Datadog (2024 - Current)
 - Security Researcher II, Security Intelligence Response Team (SIRT) @ Akamai Technologies, Inc. (2022 - 2024)
 - Senior Threat Analyst (MDR) @ VMware Carbon Black (2021 - 2022)
 - Freelance Vulnerability Researcher - HackerOne (2021)
